@@ -1,3 +1,4 @@
+style.css
 /* Reset default margin and padding */
 * {
     margin: 0;
@@ -19,7 +20,7 @@ body {
 
 /* Main Container */
 section {
-    background-color: #000000; /* Black background */
+    background-color: #181818; /* Dark background */
     color: white; /* White text for contrast */
     padding: 2rem;
     width: 90%;
@@ -32,7 +33,7 @@ section {
 
 /* Header */
 header {
-    background-color: #FF0000; /* Red background */
+    background-color: #4CAF50;
     color: white;
     padding: 2rem;
     border-radius: 8px;
@@ -50,7 +51,7 @@ header p {
 
 /* Section Titles */
 h2 {
-    color: #FF0000; /* Red color for section titles */
+    color: #4CAF50;
     margin-bottom: 1rem;
 }
 
@@ -69,7 +70,7 @@ ul li {
 
 /* Links */
 a {
-    color: #FF0000; /* Red color for links */
+    color: #4CAF50;
     text-decoration: none;
     font-weight: bold;
 }
@@ -94,7 +95,7 @@ dl dd {
 blockquote {
     font-style: italic;
     color: #555;
-    border-left: 4px solid #FF0000; /* Red border for blockquotes */
+    border-left: 4px solid #4CAF50;
     padding-left: 1rem;
     margin-top: 2rem;
 }
