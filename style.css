@@ -20,7 +20,8 @@ body {
 
 /* Main Container */
 section {
-    background-color: white;
+    background-color: #181818; /* Dark background */
+    color: white; /* White text for contrast */
     padding: 2rem;
     width: 90%;
     max-width: 800px;
